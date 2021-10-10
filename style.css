@@ -1,0 +1,87 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+ 
+  display: block;
+  background-color: cyan;
+  left: 250px;
+  position: absolute;
+  width: 500px;
+  top: 150px;
+  height: 500px;
+  display:flex;
+  display: flex; 
+  align-items: center; 
+  justify-content: center; 
+}
+
+.container {
+  position: relative;
+  background-color: white;
+  margin: auto;
+  
+  width: 1000px;
+  height: 1000px;
+  
+  
+}
+
+
+
+.central_container {
+  background-color: cyan;
+  left: 250px;
+  position: absolute;
+  width: 500px;
+  top: 150px;
+  height: 500px;
+  display:flex;
+  display: flex; 
+  align-items: center; 
+  justify-content: center; 
+}
+
+#caveman {
+  position:absolute;
+  
+  
+}
+#button1{
+  position:absolute;
+  top:200px;
+  right:125px;
+  color:blue;
+  font-size:20pt;
+}
+
+#button2{
+  position:absolute;
+  top:400px;
+  right:100px;
+  color:blue;
+  font-size:20pt;
+}
+#button3{
+  position:absolute;
+  top:600px;
+  right:130px;
+  color:blue;
+  font-size:20pt;
+}
+#button4{
+  position:absolute;
+  top:350px;
+  left:100px;
+  color:blue;
+  font-size:20pt;
+}
+
+#button5{
+  position:absolute;
+  top:500px;
+  left:130px;
+  color:blue;
+  font-size:20pt;
+}
